@@ -21,7 +21,7 @@ https://github.com/HoneyTwix/Horiseon-Mock.git
 
 Screenshot:
 
-![Horiseon screenshot](https://github.com/HoneyTwix/Horiseon-Mock/blob/main/Develop/assets/images/horiseonscreen.jpeg?raw=true)
+![Horiseon screenshot](https://github.com/HoneyTwix/Horiseon-Mock/blob/main/assets/images/horiseonscreen.jpeg?raw=true)
 
 Contribution:
 
