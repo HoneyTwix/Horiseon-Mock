@@ -17,11 +17,11 @@ CSS
 
 Website:
 
-https://github.com/HoneyTwix/urban-octo-telegram.git
+https://github.com/HoneyTwix/Horiseon-Mock.git
 
 Screenshot:
 
-![Horiseon screenshot](https://github.com/HoneyTwix/urban-octo-telegram/blob/main/Develop/assets/images/horiseonscreen.jpeg?raw=true)
+![Horiseon screenshot](https://github.com/HoneyTwix/Horiseon-Mock/blob/main/Develop/assets/images/horiseonscreen.jpeg?raw=true)
 
 Contribution:
 
