@@ -1,0 +1,230 @@
+/* This changes every box size, padding, and margins*/
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* The background color is white*/
+body {
+    background-color: #d9dcd6;
+}
+
+/* The header container has its own stlye, padding, background color, and head color*/
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+/* The header text has its own font-size and has the navigation appear next to it*/
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+/* The navigation container has its own stlye, font-size, padding, margins, and is to the right of the header*/
+.header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+/* The navigation container is not bulleted*/
+.header nav ul {
+    list-style-type: none;
+}
+
+/* The list in the navigation container appears nect to each other with an equal margin*/
+.header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+/* Reference link text is white*/
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* The text font-size is 16px*/
+p {
+    font-size: 16px;
+}
+
+/* The container contains a big picture*/
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* The image floats left to the text*/
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/* The image floats right to the text*/
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* This section container had the next section container appear next to it */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/* This section hold the benefits content and appears to the right of the other section container*/
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+/* This container has white text and bigger margins than the benefits class*/
+.benefit-lead {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* This container has white text and bigger margins than the benefits class*/
+.benefit-brand {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* This container has white text and bigger margins than the benefits class*/
+.benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* This content in benefit-lead container is white with smaller margins*/
+.benefit-lead h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* This content in benefit-brand container is white with smaller margins*/
+.benefit-brand h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* This content in benefit-cost container is white with smaller margins*/
+.benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* This image in benefit-lead container is resized*/
+.benefit-lead img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* This content in benefit-brand container is resized*/
+.benefit-brand img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* This content in benefit-cost container is resized*/
+.benefit-cost img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* This search engine optimization container is resized with its own stlye and color*/
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* This online reputation management container is resized with its own stlye and color*/
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* This social media marketing container is resized with its own stlye and color*/
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* This search engine optimization image is resized*/
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
+/* This online reputation management image is resized*/
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+/* This social media marketing image is resized*/
+.social-media-marketing img {
+    max-height: 200px;
+}
+
+/* This search engine optimization title is resized*/
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* This online reputation management title is resized*/
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* This social media marketing title is resized*/
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* This footer container is resized*/
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+/* This footer title is resized*/
+.footer h2 {
+    font-size: 20px;
+}
