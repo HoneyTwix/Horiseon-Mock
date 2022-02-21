@@ -20,7 +20,7 @@ Website:
 
 Screenshot:
 
-![Horiseon screenshot]https://github.com/HoneyTwix/urban-octo-telegram/blob/main/Develop/assets/images/horiseonscreen.jpg?raw=true)
+![Horiseon screenshot](https://github.com/HoneyTwix/urban-octo-telegram/blob/main/Develop/assets/images/horiseonscreen.jpeg?raw=true)
 
 Contribution:
 
