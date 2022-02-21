@@ -17,7 +17,7 @@ CSS
 
 Website:
 
-https://github.com/HoneyTwix/Horiseon-Mock.git
+https://horiseon-mock.hostman.site/
 
 Screenshot:
 
